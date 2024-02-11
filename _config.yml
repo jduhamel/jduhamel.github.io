@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Digital Cardiac Health for Patients, Researchers, and Technologists
-email: yas@digitalcardiac.health
+title: Heyas.
+email: joe@digitalcardiac.health
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Digitial Cardiac Health. Here we focus on the intersection of
+  Generic Description
   technology and Cardiac Health
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://test.digitalcardiac.health" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: yasmoayedi
-github_username:  yasmoayedi
+twitter_username: jduhamel
+github_username:  jduhamel
 
 # Build settings
 theme: minimal-mistakes-jekyll
